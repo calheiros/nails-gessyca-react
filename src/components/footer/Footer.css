@@ -1,8 +1,11 @@
 footer {
-   background-color: blueviolet;
-   display: flex;
    align-items: center;
+   background-color: rgba(0, 0, 0, 0.048);
+   display: flex;
    justify-content: center;
+   position: absolute;
+   overflow: hidden;
+   bottom: 0px;
    height: 200px;
    width: 100%;
 }

@@ -15,6 +15,7 @@
 
 .App {
    background-color: #282c34;
+   height: 100vh;
 }
 
 .App-header {
@@ -29,10 +30,6 @@
 
 .App-link {
   color: #61dafb;
-}
-
-main {
-   background-color: #61dafb;
 }
 
 @keyframes App-logo-spin {
